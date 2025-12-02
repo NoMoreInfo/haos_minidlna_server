@@ -1,4 +1,4 @@
-## MiniDLNA for hass.io
+## MiniDLNA for hass.io vom Master
 ## Description
 
 This addon provide a container for hass.io with MiniDLNA
