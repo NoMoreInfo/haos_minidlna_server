@@ -15,3 +15,7 @@
 ## 0.4
 
 - Fix config file for devices
+  
+## 0.5
+
+- Fix config file for devices
