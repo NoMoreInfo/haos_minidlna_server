@@ -1,6 +1,6 @@
 {
     "name": "Minidlna",
-    "version": "0.5",
+    "version": "0.6",
     "slug": "minidlna",
     "description": "MiniDLNA",
     "url": "https://github.com/NoMoreInfo/haos_minidlna_server",
