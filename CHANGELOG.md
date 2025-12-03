@@ -22,5 +22,5 @@
     
 ## 0.5
 
-- Fix config file for devices
+- Name of Server to Palazzo
 
